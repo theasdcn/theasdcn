@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Althea Zuleika Sadicon!
+# 👋 Hello, I'm Althea Zuleika Sadicon!
 ### Web & Mobile Application Developer • Full-Stack Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/althea-zuleika-sadicon-1754271ba/)
