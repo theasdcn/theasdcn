@@ -18,12 +18,12 @@
 
 ## 👩‍💻 About Me
 
-I am a **Full-Stack Web & Mobile Application Developer** and **BSIT student at FEU Institute of Technology** specializing in **Web and Mobile Application Development (BSIT-WMA)** based in Manila, Philippines.
+I am a **BSIT student at FEU Institute of Technology** specializing in **Web and Mobile Application Development (BSIT-WMA)** based in Manila, Philippines.
 
 I build robust, user-centric software solutions—from end-to-end web applications with relational databases to high-performance cross-platform mobile apps. With hands-on leadership experience directing technical teams through the full Software Development Life Cycle (SDLC), I excel at translating complex real-world requirements into clean, scalable architectures.
 
 - 🎓 **Education:** BS in Information Technology (Specialized in Web & Mobile App Development) — **FEU Tech**
-- 🔭 **Current Focus:** Enterprise full-stack systems, mobile app engineering, cloud deployments (Docker & Render).
+- 🔭 **Current Focus:** Enterprise full-stack systems, mobile app engineering, cloud deployments .
 - 🏆 **Experience:** 4+ End-to-End Projects • 13+ Technical Certifications • Agile Team Leadership.
 - 💬 **Ask me about:** PHP / CodeIgniter 4, React Native, Mobile Development, RESTful APIs, UI/UX Design Systems.
 
@@ -41,7 +41,6 @@ I build robust, user-centric software solutions—from end-to-end web applicatio
 ### 📱 Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### ⚙️ Backend & API Architecture
