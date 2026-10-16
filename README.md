@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hello, I'm Althea Zuleika Sadicon!
-### Web & Mobile Application Developer • Full-Stack Engineer
+### Web & Mobile Application Developer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/althea-zuleika-sadicon-1754271ba/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadiconaltheazuleika@gmail.com)
