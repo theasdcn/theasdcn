@@ -24,7 +24,7 @@ I build robust, user-centric software solutions—from end-to-end web applicatio
 
 - 🎓 **Education:** BS in Information Technology (Specialized in Web & Mobile App Development) — **FEU Tech**
 - 🔭 **Current Focus:** Enterprise full-stack systems, mobile app engineering, cloud deployments .
-- 🏆 **Experience:** 4+ End-to-End Projects • 13+ Technical Certifications • Agile Team Leadership.
+- 🏆 **Experience:** 5+ End-to-End Projects • 13+ Technical Certifications & Training • Team Leadership.
 - 💬 **Ask me about:** PHP / CodeIgniter 4, React Native, Mobile Development, RESTful APIs, UI/UX Design Systems.
 
 ---
