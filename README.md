@@ -31,37 +31,38 @@ I build robust, user-centric software solutions—from end-to-end web applicatio
 
 ## 🛠️ Tech Stack & Skills
 
-### 🌐 Frontend & Web Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🌐 Web & Mobile Development
+![Web Development](https://img.shields.io/badge/Web_Development-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Mobile Development](https://img.shields.io/badge/Mobile_Application_Development-10B981?style=for-the-badge&logo=android&logoColor=white)
+![Front-End Development](https://img.shields.io/badge/Front--End_Development-6366F1?style=for-the-badge&logo=html5&logoColor=white)
+![Back-End Development](https://img.shields.io/badge/Back--End_Development-8B5CF6?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-EC4899?style=for-the-badge&logo=css3&logoColor=white)
+![Database Management](https://img.shields.io/badge/Database_Management-F59E0B?style=for-the-badge&logo=mysql&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-06B6D4?style=for-the-badge&logo=postman&logoColor=white)
+
+### 💻 Programming & Technologies
+![HTML & CSS](https://img.shields.io/badge/HTML_%26_CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### ⚙️ Backend & API Architecture
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EF4444?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🗄️ Databases & Storage
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4444?style=for-the-badge&logo=codeigniter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-### 🚢 DevOps, Cloud & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git & GitHub](https://img.shields.io/badge/Git_%26_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![React / Web Technologies](https://img.shields.io/badge/React_%2F_Web_Technologies-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🎨 Design & Workflow
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-FF61F6?style=for-the-badge&logo=figma&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Prototyping](https://img.shields.io/badge/Prototyping-8B5CF6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Wireframing](https://img.shields.io/badge/Wireframing-4F46E5?style=for-the-badge&logo=miro&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Project Management](https://img.shields.io/badge/Project_Management-10B981?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
